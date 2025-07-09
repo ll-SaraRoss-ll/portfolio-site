@@ -51,3 +51,6 @@ Responsive UI and accessible form design
 Collaboration-ready documentation
 
 This portfolio is a living document of my coding journey. Stay tuned for project updates and new features!
+
+![Homepage Preview](./screenshots/homepage.png)
+![Contact Form Animation](./screenshots/contact-form.gif)
